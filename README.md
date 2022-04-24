@@ -1,4 +1,5 @@
 Purpose and Overview 
+
 The purpose of this analysis is to provide the client, a ride-share application company, information to help improve access to ride-sharing services and to determine affordability for its services in under-served areas.   The data looks at three main target areas: urban cities, suburban cities, and rural cities. It comprises date, time, city, number of drivers, and logs of the individual rides for each city type.  This analysis focused on exploration and a broad review of trends in the data preliminary to recommendations for further action.
 Data Set
 The data set consists of two .csv files, ride_data.csv and city_data.csv.  City_data.csv acts as a key to the ride data, and contains the name of name, type, and number of drivers for every city included in the analysis.  The ride data is the record of every ride occurring in the study time frame, the first four months of 2019. There are 2,376 records in ride_data.csv.
